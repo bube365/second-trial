@@ -1,0 +1,38 @@
+p{
+    color: blue;
+}
+img{
+    width: 200px;
+}
+
+td{
+    background-color: aquamarine;
+    color: rgb(1, 1, 45);
+}
+
+tr{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(59, 59, 241);
+}
+
+table,th,td{
+    border: 2px solid;
+}
+
+form{
+    background-color: azure;
+}
+
+h1{
+    color: whitesmoke;
+}
+
+.landing{
+    color: rgb(65, 8, 8);
+    text-decoration: none;
+}
+
+#firstid{
+    font-weight: 900px;
+    color: rgb(34, 2, 2);
+}
